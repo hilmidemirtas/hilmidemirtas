@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilmidemirtas
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently learning css, javascript
+- 🌱 I’m currently learning javascript, node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hilmidemirtas94@gmail.com
 
