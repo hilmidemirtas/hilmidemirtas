@@ -1,7 +1,7 @@
 ### Hilmi Demirtaş 
 
 - 👋 Hi, I’m @hilmidemirtas
-- 👀 I’m interested in mobile app
+- 👀 I’m interested in node.js
 - 🌱 I’m currently learning javascript, node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hilmidemirtas94@gmail.com
