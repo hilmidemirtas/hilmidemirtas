@@ -1,7 +1,6 @@
 ### Hilmi Demirtaş 
 
 - 👋 Hi, I’m @hilmidemirtas
-- 👀 I’m interested in node.js and some hacking
 - 📫 How to reach me hilmidemirtas94@gmail.com
 
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hilmidemirtas&show_icons=true&theme=radical)
